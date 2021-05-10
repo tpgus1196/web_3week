@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;}
+html, body{font-size: 12px;}
+a{text-decoration: none; color: inherit;}
+
+#wrap{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20%;
+}
+
+#wrap h1{
+    margin-bottom: 3rem;
+}
+#wrap h1 a{
+    font-size: 3rem;
+}
+#wrap ol{}
+#wrap ol li{
+    padding: 1.5rem;
+}
+#wrap ol li a{
+    font-size: 1.5rem;
+}
+
+#wrap ol li:hover {
+    background: #ccc;
+    color: #fff;
+}
